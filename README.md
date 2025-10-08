@@ -1,6 +1,8 @@
-# Status Badge
+# Badges
 
 [![Java CI with Maven](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml)
+
+https://img.shields.io/github/license/noragrnczr/se-lab
 
 # SE Spaceship
 
