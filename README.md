@@ -1,3 +1,7 @@
+# Status Badge
+
+[![Java CI with Maven](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
