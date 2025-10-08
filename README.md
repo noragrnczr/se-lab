@@ -2,7 +2,7 @@
 
 [![Java CI with Maven](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/noragrnczr/se-lab/actions/workflows/maven.yml)
 
-[![License](https://img.shields.io/github/license/noragrnczr/se-lab)]
+![License](https://img.shields.io/github/license/noragrnczr/se-lab)
 
 # SE Spaceship
 
